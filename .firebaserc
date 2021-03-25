@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "successjawarning": {
+      "hosting": {
+        "warning-et-success": [
+          "successjawarning"
+        ]
+      }
+    }
+  }
+}

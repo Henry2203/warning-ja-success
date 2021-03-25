@@ -1,0 +1,14 @@
+.flex-con {
+    display: flex;
+    flex-direction: row;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+@media (max-width: 425px) {
+    .flex-con {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        font-family: 'Courier New', Courier, monospace;
+    }
+}
